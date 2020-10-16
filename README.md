@@ -10,6 +10,18 @@ From Wikipedia:
 
 There are several articles and books about OKR, in this text I will focus on my opinionated personal point of view.
 
+## Scrum (two weeks), OKR (quarterly)
+
+There are several loops/cycles in daily work.
+
+For example a software developer has this tiny loop: Edit code, execute the tests, check the result, then again edit code, execute tests ...
+
+If you are using Scrum, then you have the sprint cycle, which usualy is two weeks long.
+
+Most companies stopped to have long "waterfall" cycles which last years, but nevertheless something is missing if you only plan for two weeks.
+
+I think quartely OKR fit very well, if you do Scrum. This gives the development team enough freedom, but nevertheless you focus on a higher goal.
+
 ## OKR vs WOOP
 
 For personal goal setting, I prefer WOOP, since it is more. It is "mental contrasting" which helps to be prepared, since it 
