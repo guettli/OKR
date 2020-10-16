@@ -16,3 +16,13 @@ For personal goal setting, I prefer WOOP, since it is more. It is "mental contra
 contains the steps "obstacles and plans".
 
 More about this topic [OKR vs WOOP](https://github.com/guettli/okrs-vs-woop)
+
+## From Key-results to Objective
+
+Usualy you write down the objective, and then create key results.
+
+Sometimes this is easy. For example a development team wants to improve the page navigation and they already have a clear vision. They have a clear plan and the key results are like the small step to get them to their big goal. 
+
+Sometimes it is hard to find an objective. Your head is full of many small steps. For example a DevOp team has no vision: the servers are running fine and no big changes are planed. Then just try it the other way round: First write down
+your key results and then group them to objectives. 
+
